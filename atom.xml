@@ -6,7 +6,7 @@
   <link href="https://w58296.github.io/atom.xml" rel="self"/>
   
   <link href="https://w58296.github.io/"/>
-  <updated>2021-07-18T02:59:32.604Z</updated>
+  <updated>2021-07-18T03:19:39.087Z</updated>
   <id>https://w58296.github.io/</id>
   
   <author>
@@ -21,11 +21,13 @@
     <link href="https://w58296.github.io/2021/07/18/seata/"/>
     <id>https://w58296.github.io/2021/07/18/seata/</id>
     <published>2021-07-18T02:59:32.000Z</published>
-    <updated>2021-07-18T02:59:32.604Z</updated>
+    <updated>2021-07-18T03:19:39.087Z</updated>
     
     
     
     
+    
+    <category term="SpringCloud" scheme="https://w58296.github.io/tags/SpringCloud/"/>
     
   </entry>
   
@@ -34,11 +36,13 @@
     <link href="https://w58296.github.io/2021/07/18/sentinel/"/>
     <id>https://w58296.github.io/2021/07/18/sentinel/</id>
     <published>2021-07-18T02:59:21.000Z</published>
-    <updated>2021-07-18T02:59:21.515Z</updated>
+    <updated>2021-07-18T03:19:52.406Z</updated>
     
     
     
     
+    
+    <category term="SpringCloud" scheme="https://w58296.github.io/tags/SpringCloud/"/>
     
   </entry>
   
@@ -47,8 +51,16 @@
     <link href="https://w58296.github.io/2021/07/18/nacos/"/>
     <id>https://w58296.github.io/2021/07/18/nacos/</id>
     <published>2021-07-18T02:49:41.000Z</published>
-    <updated>2021-07-18T02:49:56.274Z</updated>
+    <updated>2021-07-18T06:49:26.657Z</updated>
     
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;Nacos介绍&quot;&gt;&lt;a href=&quot;#Nacos介绍&quot; class=&quot;headerlink&quot; title=&quot;Nacos介绍&quot;&gt;&lt;/a&gt;Nacos介绍&lt;/h3&gt;&lt;p&gt;&lt;a</summary>
+        
+      
     
     
     
@@ -62,7 +74,7 @@
     <link href="https://w58296.github.io/2021/07/18/springcloud/"/>
     <id>https://w58296.github.io/2021/07/18/springcloud/</id>
     <published>2021-07-18T01:33:02.000Z</published>
-    <updated>2021-07-18T02:36:47.073Z</updated>
+    <updated>2021-07-18T05:09:28.338Z</updated>
     
     
       
