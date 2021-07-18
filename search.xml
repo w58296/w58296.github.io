@@ -4,17 +4,62 @@
   
     
     <entry>
-      <title>SpringCloud</title>
-      <link href="2021/07/18/springcloud/"/>
-      <url>2021/07/18/springcloud/</url>
+      <title>Seata</title>
+      <link href="2021/07/18/seata/"/>
+      <url>2021/07/18/seata/</url>
       
-        <content type="html"><![CDATA[<p><strong>主要记录Spring Cloud Alibaba的学习</strong></p><p><a href="https://spring-cloud-alibaba-group.github.io/github-pages/hoxton/en-us/index.html">Spring Cloud Alibaba官方文档</a></p><ul><li>Nacos</li><li>Sentinel</li></ul>]]></content>
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Sentinel</title>
+      <link href="2021/07/18/sentinel/"/>
+      <url>2021/07/18/sentinel/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Nacos</title>
+      <link href="2021/07/18/nacos/"/>
+      <url>2021/07/18/nacos/</url>
+      
+        <content type="html"><![CDATA[]]></content>
       
       
       
         <tags>
             
-            <tag> SpringClogu </tag>
+            <tag> SpringCloud </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>SpringCloud</title>
+      <link href="2021/07/18/springcloud/"/>
+      <url>2021/07/18/springcloud/</url>
+      
+        <content type="html"><![CDATA[<p><strong>主要记录Spring Cloud Alibaba的学习</strong></p><p><a href="https://spring-cloud-alibaba-group.github.io/github-pages/hoxton/en-us/index.html">Spring Cloud Alibaba官方文档</a></p><ul><li>Nacos</li><li>Sentinel</li><li>Seata</li></ul>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> SpringCloud </tag>
             
         </tags>
       
